@@ -12,9 +12,9 @@ A simple ATM System application designed to simulate an automated teller machine
 
 ## Technologies Used
 
-- **Backend:** [e.g., Python, Java, .NET, etc.]
-- **Frontend:** [e.g., HTML, CSS, JavaScript, etc.]
-- **Database:** [e.g., MySQL, SQLite, PostgreSQL, etc.]
+- **Backend:** [cpp, file system]
+- **Frontend:** [console app]
+- **Database:** [file system before learn database]
 
 ## Installation
 
