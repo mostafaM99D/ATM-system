@@ -1,0 +1,4 @@
+﻿  Project 2 (ATM System).cpp
+D:\برمجه\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 2 (ATM System)\Project 2 (ATM System)\Project 2 (ATM System).cpp(33,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\برمجه\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 2 (ATM System)\Project 2 (ATM System)\Project 2 (ATM System).cpp(151): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  Project 2 (ATM System).vcxproj -> D:\برمجه\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 2 (ATM System)\x64\Debug\Project 2 (ATM System).exe
